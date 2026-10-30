@@ -1,0 +1,1 @@
+-rw------- 1 ayeshakanwal077 ayeshakanwal077 102 Oct 30 09:44 /home/ayeshakanwal077/.ssh/authorized_keys
